@@ -1,0 +1,7 @@
+.chat-window {
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+  border-top: 1px solid lightgray;
+}
+

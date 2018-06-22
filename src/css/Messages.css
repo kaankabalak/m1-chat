@@ -1,0 +1,46 @@
+.messages {
+  flex: 1;
+  padding: 10px 10px;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  position: relative;
+}
+
+.messages-list {
+  max-height: 100%;
+  overflow: auto;
+  padding-bottom: 30px;
+}
+
+.message-item {
+  margin-bottom: 5px;
+}
+
+.message-typing {
+  font-size: 12px;
+  padding: 10px;
+}
+
+.message-input {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+}
+
+.message-input input {
+  height: 50px;
+  border: 1px solid lightgray;
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.message-input-form {
+  display: flex;
+}
+
+.message-input-form input {
+  flex: 1;
+}

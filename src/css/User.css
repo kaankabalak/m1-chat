@@ -1,0 +1,16 @@
+.users-page {
+  padding: 10px;
+}
+
+.users-page h1 {
+  display: inline-block;
+}
+
+.form--login {
+  margin: 50px 10px;
+  max-width: 300px;
+}
+
+.form--login .form-control {
+  padding: 10px;
+}

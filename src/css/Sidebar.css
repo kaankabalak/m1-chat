@@ -1,0 +1,38 @@
+.sidebar {
+  flex: 0 0 15em;
+  background-color: #f4f5f7;
+}
+
+.user-info {
+  font-size: 24px;
+  padding: 15px;
+
+}
+
+.channels {
+  padding: 15px;
+}
+
+.channels h2 {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.channels .channel-item {
+  padding: 5px 15px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.channel-item--unread {
+  font-weight: 600;
+}
+
+.channels .channel-item--active {
+  background-color: #dcdcdc;
+}
+
+.channels .channel-item  a {
+  text-decoration: none;
+  color: black;
+}

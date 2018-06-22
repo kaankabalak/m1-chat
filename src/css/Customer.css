@@ -1,0 +1,15 @@
+.btn-chat {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+
+.chat-wrapper {
+  width: 800px;
+  height: 500px;
+  position: absolute;
+  bottom: 80px;
+  right: 30px;
+  box-shadow: 1px 1px 1px gray;
+  background-color: #f4f5f7;
+}

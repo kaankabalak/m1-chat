@@ -1,0 +1,13 @@
+.members {
+  flex: 0 0 15em;
+  padding: 15px 15px;
+}
+
+.members h2 {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.members .member-item {
+  padding: 5px 0px;
+}
